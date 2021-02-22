@@ -41,7 +41,7 @@ Creation of database begins with collecting necessary requirements for the busin
 
 Conceptual ER-model based on the requirements:
 
-![alt text](https://github.com/ainosolin/raw/master/Restaurant-SQL-DB/Files/Conceptual.png)
+![alt text](https://github.com/ainosolin/master/Restaurant-SQL-DB/Files/Conceptual.png)
 
 
 
