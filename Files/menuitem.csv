@@ -1,0 +1,10 @@
+item_id,item_name,price,size
+1,Burger,2.25,S
+2,Burger,0.0,M
+3,Burger,3.39,L
+4,Fries,3.88,S
+5,Fries,1.18,M
+6,Fries,0.05,L
+7,Wrap,1.29,S
+8,Wrap,1.29,M
+9,Wrap,2.65,L
