@@ -56,9 +56,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aino Solin - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[Aino Solin](https://www.linkedin.com/in/ainosolin/)
 
 
 <!-- REFERENCES -->
