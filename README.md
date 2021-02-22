@@ -24,7 +24,6 @@
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -57,8 +56,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 [Aino Solin](https://www.linkedin.com/in/ainosolin/)
-
-
-<!-- REFERENCES -->
-## References
-* [Reference](link)
