@@ -35,9 +35,9 @@
 
 Creation of database begins with collecting necessary requirements for the business problem in question. The business case is to create database for a restaurant chain. Following requirements are set for the database:
 
-•	allow the restaurant company to display their menu with different price for meals,
-•	show their working hours in the week, and
-•	save information of all orders from their customers.
+* allow the restaurant company to display their menu with different price for meals,
+* show their working hours in the week, and
+* save information of all orders from their customers.
 
 Conceptual ER-model based on the requirements:
 
